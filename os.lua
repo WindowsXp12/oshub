@@ -1,10 +1,5 @@
 
 
---[[
-
-	Made by Kyojuro Rengoku💥#0001
-	Dont skid this or there will be legal action
---]]
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/JRL-lav/Scripts/main/U"))()
 local Window = Library:CreateWindow("Azoz | Demonfall")
